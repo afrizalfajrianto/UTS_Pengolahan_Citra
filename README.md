@@ -10,6 +10,7 @@
 | Fadhlurohman Fatikh Navintino | 312210368 |
 
 
+
 App.py
 ```
 import cv2
@@ -59,6 +60,6 @@ else:
 
 
 Hasil projek
-<img width="956" alt="image" src="https://github.com/afrizalfajrianto/UTS_Pengolahan_Citra/assets/115614098/31515e89-9473-48a7-932f-05a0da9fe9db">
+<img width="956" alt="image" src="https://github.com/afrizalfajrianto/UTS_Pengolahan_Citra/assets/115614098/c55c90d4-bc88-4af3-8a1e-96015877bae5">
 
 
